@@ -1,0 +1,4 @@
+Software Engineer with 5 years of experience.
+Strong in Python, SQL, Pandas, NumPy, and scikit-learn.
+Built REST APIs using FastAPI and Flask.
+Experience with Docker, Git, and Linux.
