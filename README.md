@@ -21,11 +21,15 @@ LLMs are powerful tools — but not replacements for classical ML systems in reg
 ## 3. Architecture Overview
 
 Resume Text ──┐
+
 ├─> Sentence Embeddings ─> Cosine Similarity ─> Match Score
+
 Job Text ─────┘
 
 Resume Text ──┐
+
 ├─> Rule-Based Skill Extraction ─> Skill Gap Analysis
+
 Job Text ─────┘
 
 ---
